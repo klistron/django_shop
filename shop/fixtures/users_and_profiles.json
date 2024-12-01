@@ -1,0 +1,300 @@
+[
+    {
+        "model": "auth.user",
+        "pk": 1,
+        "fields": {
+            "password": "pbkdf2_sha256$600000$bcuEon1MgSBGt8EA3ErJhy$fJ0b89VmzeU11fnAKovAN424KOCUBuWwEUC/Rqnx/4M=",
+            "last_login": "2024-08-08T19:23:45.512Z",
+            "is_superuser": true,
+            "username": "root",
+            "first_name": "",
+            "last_name": "",
+            "email": "",
+            "is_staff": true,
+            "is_active": true,
+            "date_joined": "2024-08-01T18:07:58.575Z",
+            "groups": [],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 2,
+        "fields": {
+            "password": "pbkdf2_sha256$600000$IafMQ1eq460HASxQfGtXV3$Gd8BwRlyzRZhijsAKgxSMmC/USkmKpAZs5fb0ID4yvs=",
+            "last_login": "2024-08-08T19:17:00.318Z",
+            "is_superuser": false,
+            "username": "Samarina",
+            "first_name": "",
+            "last_name": "",
+            "email": "",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2024-08-08T19:16:45.727Z",
+            "groups": [
+                1
+            ],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 3,
+        "fields": {
+            "password": "pbkdf2_sha256$600000$PdDDY1ltKVE1pj0vI9mx7A$CZliRKjkkfo5e/iIxQBuFbddYuFPiar/51kMz3LLLoM=",
+            "last_login": "2024-08-09T16:26:53.774Z",
+            "is_superuser": false,
+            "username": "petrov",
+            "first_name": "",
+            "last_name": "",
+            "email": "",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2024-08-09T16:26:53.555Z",
+            "groups": [
+                1
+            ],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 4,
+        "fields": {
+            "password": "pbkdf2_sha256$600000$9gnj9zRrLC3CCbmd2ytQwr$3ssH6Y1SL+10Xpgi2JSe3uL8UpCjJE4DOM8iAJEBjFA=",
+            "last_login": "2024-08-09T16:32:28.842Z",
+            "is_superuser": false,
+            "username": "Smirnova",
+            "first_name": "",
+            "last_name": "",
+            "email": "",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2024-08-09T16:32:28.638Z",
+            "groups": [
+                1
+            ],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 5,
+        "fields": {
+            "password": "pbkdf2_sha256$600000$dSxL1g5z8KhJ1mdvSCytbD$yoEAH22FT9PExk9TpSs6eUEWp37XgKwgDbXY+9+0VzE=",
+            "last_login": "2024-08-09T16:33:44.095Z",
+            "is_superuser": false,
+            "username": "White",
+            "first_name": "Гена Белый",
+            "last_name": "",
+            "email": "",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2024-08-09T16:33:43.889Z",
+            "groups": [
+                1
+            ],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 6,
+        "fields": {
+            "password": "pbkdf2_sha256$600000$yLNbfwKYbPFrOfjdBwgL0A$UO7voTm+ZTEkhoxAeGDJbDFZUYaJIL6Ks3WmZ9+DMd8=",
+            "last_login": "2024-08-09T16:34:54.950Z",
+            "is_superuser": false,
+            "username": "Patrick",
+            "first_name": "Patrick Smith",
+            "last_name": "",
+            "email": "",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2024-08-09T16:34:54.745Z",
+            "groups": [
+                1
+            ],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 7,
+        "fields": {
+            "password": "pbkdf2_sha256$600000$kM3YO2GwSUC7XQNwxm3jhL$v7s7KNAbynpjnMdfK6ZkCx3cVluEUA7cvpnZdsi95wA=",
+            "last_login": "2024-08-09T16:35:46.598Z",
+            "is_superuser": false,
+            "username": "Pip",
+            "first_name": "Kamila Pipe",
+            "last_name": "",
+            "email": "",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2024-08-09T16:35:46.397Z",
+            "groups": [
+                1
+            ],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 8,
+        "fields": {
+            "password": "pbkdf2_sha256$600000$YNOZHvQN0EMNo32qBkv9r8$g7DiBcytsaW3g1l4VCov5hx2IEGllg6agy3OjJL7AGA=",
+            "last_login": "2024-08-09T16:36:16.476Z",
+            "is_superuser": false,
+            "username": "PavelWorld",
+            "first_name": "Павел Мирный",
+            "last_name": "",
+            "email": "",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2024-08-09T16:36:16.237Z",
+            "groups": [
+                1
+            ],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 9,
+        "fields": {
+            "password": "pbkdf2_sha256$600000$2qoMTYTgfVLQQtMMxZUo8B$7avd1wvWZbcRaFlNErBxKpt6EUt4rebaAPDmqYofvg4=",
+            "last_login": "2024-08-09T16:36:48.178Z",
+            "is_superuser": false,
+            "username": "Basket95",
+            "first_name": "Timosha Basket",
+            "last_name": "",
+            "email": "",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2024-08-09T16:36:47.981Z",
+            "groups": [
+                1
+            ],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 10,
+        "fields": {
+            "password": "pbkdf2_sha256$600000$Dv5gQSCAaH0VB2WfszCrEl$fXrod+jZh9qI8nFpJzBpLAifsuCA6e4X6SYRl4wflUA=",
+            "last_login": "2024-08-09T16:37:28.871Z",
+            "is_superuser": false,
+            "username": "Voldemar",
+            "first_name": "Вольдемар",
+            "last_name": "",
+            "email": "",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2024-08-09T16:37:28.677Z",
+            "groups": [
+                1
+            ],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "users.profile",
+        "pk": 1,
+        "fields": {
+            "user": 1,
+            "fullName": "Ivanov",
+            "email": "example@mail.com",
+            "phone": "562525"
+        }
+    },
+    {
+        "model": "users.profile",
+        "pk": 2,
+        "fields": {
+            "user": 2,
+            "fullName": null,
+            "email": "",
+            "phone": null
+        }
+    },
+    {
+        "model": "users.profile",
+        "pk": 3,
+        "fields": {
+            "user": 3,
+            "fullName": null,
+            "email": "",
+            "phone": null
+        }
+    },
+    {
+        "model": "users.profile",
+        "pk": 4,
+        "fields": {
+            "user": 4,
+            "fullName": null,
+            "email": "",
+            "phone": null
+        }
+    },
+    {
+        "model": "users.profile",
+        "pk": 5,
+        "fields": {
+            "user": 5,
+            "fullName": null,
+            "email": "",
+            "phone": null
+        }
+    },
+    {
+        "model": "users.profile",
+        "pk": 6,
+        "fields": {
+            "user": 6,
+            "fullName": null,
+            "email": "",
+            "phone": null
+        }
+    },
+    {
+        "model": "users.profile",
+        "pk": 7,
+        "fields": {
+            "user": 7,
+            "fullName": null,
+            "email": "",
+            "phone": null
+        }
+    },
+    {
+        "model": "users.profile",
+        "pk": 8,
+        "fields": {
+            "user": 8,
+            "fullName": null,
+            "email": "",
+            "phone": null
+        }
+    },
+    {
+        "model": "users.profile",
+        "pk": 9,
+        "fields": {
+            "user": 9,
+            "fullName": null,
+            "email": "",
+            "phone": null
+        }
+    },
+    {
+        "model": "users.profile",
+        "pk": 10,
+        "fields": {
+            "user": 10,
+            "fullName": null,
+            "email": "",
+            "phone": null
+        }
+    }
+]

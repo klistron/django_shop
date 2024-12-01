@@ -1,0 +1,98 @@
+[
+    {
+        "model": "catalog.tag",
+        "pk": 1,
+        "fields": {
+            "name": "Б/У",
+            "products": [
+                15
+            ]
+        }
+    },
+    {
+        "model": "catalog.tag",
+        "pk": 2,
+        "fields": {
+            "name": "Intel",
+            "products": [
+                11,
+                12,
+                15
+            ]
+        }
+    },
+    {
+        "model": "catalog.tag",
+        "pk": 3,
+        "fields": {
+            "name": "No-Frost",
+            "products": [
+                1,
+                2,
+                3,
+                6,
+                7
+            ]
+        }
+    },
+    {
+        "model": "catalog.tag",
+        "pk": 4,
+        "fields": {
+            "name": "Windows",
+            "products": [
+                11,
+                12,
+                13,
+                14,
+                15
+            ]
+        }
+    },
+    {
+        "model": "catalog.tag",
+        "pk": 5,
+        "fields": {
+            "name": "Две камеры",
+            "products": [
+                1,
+                2,
+                3
+            ]
+        }
+    },
+    {
+        "model": "catalog.tag",
+        "pk": 6,
+        "fields": {
+            "name": "nanoSim",
+            "products": [
+                4,
+                5,
+                8,
+                9,
+                10
+            ]
+        }
+    },
+    {
+        "model": "catalog.tag",
+        "pk": 7,
+        "fields": {
+            "name": "256 Gb",
+            "products": [
+                4
+            ]
+        }
+    },
+    {
+        "model": "catalog.tag",
+        "pk": 8,
+        "fields": {
+            "name": "128 Gb",
+            "products": [
+                5
+            ]
+        }
+    }
+]

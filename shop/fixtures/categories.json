@@ -1,0 +1,66 @@
+[
+    {
+        "model": "catalog.category",
+        "pk": 1,
+        "fields": {
+            "title": "Фото и видео",
+            "parent": null
+        }
+    },
+    {
+        "model": "catalog.category",
+        "pk": 2,
+        "fields": {
+            "title": "Электроника",
+            "parent": null
+        }
+    },
+    {
+        "model": "catalog.category",
+        "pk": 3,
+        "fields": {
+            "title": "Бытовая техника",
+            "parent": null
+        }
+    },
+    {
+        "model": "catalog.category",
+        "pk": 4,
+        "fields": {
+            "title": "Ноутбуки",
+            "parent": 2
+        }
+    },
+    {
+        "model": "catalog.category",
+        "pk": 5,
+        "fields": {
+            "title": "Смартфоны",
+            "parent": 2
+        }
+    },
+    {
+        "model": "catalog.category",
+        "pk": 6,
+        "fields": {
+            "title": "Холодильники",
+            "parent": 3
+        }
+    },
+    {
+        "model": "catalog.category",
+        "pk": 7,
+        "fields": {
+            "title": "Пылесосы",
+            "parent": 3
+        }
+    },
+    {
+        "model": "catalog.category",
+        "pk": 9,
+        "fields": {
+            "title": "Фотоаппараты",
+            "parent": 1
+        }
+    }
+]

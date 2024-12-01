@@ -1,0 +1,638 @@
+[
+    {
+        "model": "catalog.review",
+        "pk": 1,
+        "fields": {
+            "author": 1,
+            "product": 1,
+            "email": "author1@example.com",
+            "text": "Отличный продукт, рекомендую!",
+            "rate": 5,
+            "date": "2024-08-08T10:00:00Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 2,
+        "fields": {
+            "author": 2,
+            "product": 1,
+            "email": "author2@example.com",
+            "text": "Хороший товар, но есть недостатки.",
+            "rate": 4,
+            "date": "2024-08-08T11:00:00Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 3,
+        "fields": {
+            "author": 3,
+            "product": 1,
+            "email": "author3@example.com",
+            "text": "Средний продукт.",
+            "rate": 3,
+            "date": "2024-08-08T12:00:00Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 4,
+        "fields": {
+            "author": 1,
+            "product": 2,
+            "email": "author1@example.com",
+            "text": "Очень доволен покупкой!",
+            "rate": 5,
+            "date": "2024-08-08T13:00:00Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 5,
+        "fields": {
+            "author": 4,
+            "product": 2,
+            "email": "author4@example.com",
+            "text": "Не оправдал ожиданий.",
+            "rate": 2,
+            "date": "2024-08-08T14:00:00Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 6,
+        "fields": {
+            "author": 5,
+            "product": 2,
+            "email": "author5@example.com",
+            "text": "Отличное соотношение цены и качества.",
+            "rate": 4,
+            "date": "2024-08-08T15:00:00Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 7,
+        "fields": {
+            "author": 6,
+            "product": 3,
+            "email": "author6@example.com",
+            "text": "Очень хороший продукт.",
+            "rate": 5,
+            "date": "2024-08-08T16:00:00Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 8,
+        "fields": {
+            "author": 7,
+            "product": 3,
+            "email": "author7@example.com",
+            "text": "Неплохой товар.",
+            "rate": 3,
+            "date": "2024-08-08T17:00:00Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 9,
+        "fields": {
+            "author": 8,
+            "product": 3,
+            "email": "author8@example.com",
+            "text": "Не рекомендую.",
+            "rate": 1,
+            "date": "2024-08-08T18:00:00Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 10,
+        "fields": {
+            "author": 9,
+            "product": 4,
+            "email": "author9@example.com",
+            "text": "Превосходно!",
+            "rate": 5,
+            "date": "2024-08-08T19:00:00Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 11,
+        "fields": {
+            "author": 10,
+            "product": 4,
+            "email": "author10@example.com",
+            "text": "Хороший выбор.",
+            "rate": 4,
+            "date": "2024-08-08T20:00:00Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 12,
+        "fields": {
+            "author": 1,
+            "product": 4,
+            "email": "author1@example.com",
+            "text": "Средний продукт.",
+            "rate": 3,
+            "date": "2024-08-08T21:00:00Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 13,
+        "fields": {
+            "author": 2,
+            "product": 5,
+            "email": "author2@example.com",
+            "text": "Очень доволен этим товаром!",
+            "rate": 5,
+            "date": "2024-08-08T10:30:00Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 14,
+        "fields": {
+            "author": 4,
+            "product": 5,
+            "email": "author4@example.com",
+            "text": "Неплохой товар, но есть недостатки.",
+            "rate": 3,
+            "date": "2024-08-08T11:15:00Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 15,
+        "fields": {
+            "author": 7,
+            "product": 5,
+            "email": "author7@example.com",
+            "text": "Отличное качество за эти деньги.",
+            "rate": 4,
+            "date": "2024-08-08T12:45:00Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 16,
+        "fields": {
+            "author": 3,
+            "product": 6,
+            "email": "author3@example.com",
+            "text": "Превосходный товар, рекомендую всем.",
+            "rate": 5,
+            "date": "2024-08-08T13:30:00Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 17,
+        "fields": {
+            "author": 5,
+            "product": 6,
+            "email": "author5@example.com",
+            "text": "Хороший выбор, но не идеален.",
+            "rate": 4,
+            "date": "2024-08-08T14:00:00Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 18,
+        "fields": {
+            "author": 8,
+            "product": 6,
+            "email": "author8@example.com",
+            "text": "Средний продукт, ожидал большего.",
+            "rate": 3,
+            "date": "2024-08-08T15:20:00Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 19,
+        "fields": {
+            "author": 6,
+            "product": 7,
+            "email": "author6@example.com",
+            "text": "Очень хороший товар, покупкой доволен.",
+            "rate": 5,
+            "date": "2024-08-08T16:10:00Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 20,
+        "fields": {
+            "author": 9,
+            "product": 7,
+            "email": "author9@example.com",
+            "text": "Качество на высоте, рекомендую.",
+            "rate": 5,
+            "date": "2024-08-08T17:05:00Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 21,
+        "fields": {
+            "author": 10,
+            "product": 7,
+            "email": "author10@example.com",
+            "text": "Неплохой товар, но есть лучше.",
+            "rate": 3,
+            "date": "2024-08-08T18:30:00Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 22,
+        "fields": {
+            "author": 1,
+            "product": 8,
+            "email": "author1@example.com",
+            "text": "Очень хороший продукт, рекомендую!",
+            "rate": 5,
+            "date": "2024-08-08T09:00:00Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 23,
+        "fields": {
+            "author": 3,
+            "product": 8,
+            "email": "author3@example.com",
+            "text": "Неплохой товар, но есть недостатки.",
+            "rate": 3,
+            "date": "2024-08-08T10:30:00Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 24,
+        "fields": {
+            "author": 5,
+            "product": 8,
+            "email": "author5@example.com",
+            "text": "Отличное качество за эти деньги.",
+            "rate": 4,
+            "date": "2024-08-08T11:45:00Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 25,
+        "fields": {
+            "author": 2,
+            "product": 9,
+            "email": "author2@example.com",
+            "text": "Превосходный товар, рекомендую всем.",
+            "rate": 5,
+            "date": "2024-08-08T12:30:00Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 26,
+        "fields": {
+            "author": 4,
+            "product": 9,
+            "email": "author4@example.com",
+            "text": "Хороший выбор, но не идеален.",
+            "rate": 4,
+            "date": "2024-08-08T13:00:00Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 27,
+        "fields": {
+            "author": 6,
+            "product": 9,
+            "email": "author6@example.com",
+            "text": "Средний продукт, ожидал большего.",
+            "rate": 3,
+            "date": "2024-08-08T14:20:00Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 28,
+        "fields": {
+            "author": 7,
+            "product": 10,
+            "email": "author7@example.com",
+            "text": "Очень хороший товар, покупкой доволен.",
+            "rate": 5,
+            "date": "2024-08-08T15:10:00Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 29,
+        "fields": {
+            "author": 8,
+            "product": 10,
+            "email": "author8@example.com",
+            "text": "Качество на высоте, рекомендую.",
+            "rate": 5,
+            "date": "2024-08-08T16:05:00Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 30,
+        "fields": {
+            "author": 9,
+            "product": 10,
+            "email": "author9@example.com",
+            "text": "Неплохой товар, но есть лучше.",
+            "rate": 3,
+            "date": "2024-08-08T17:30:00Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 31,
+        "fields": {
+            "author": 10,
+            "product": 11,
+            "email": "author10@example.com",
+            "text": "Продукт превзошел мои ожидания!",
+            "rate": 5,
+            "date": "2024-08-08T18:00:00Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 32,
+        "fields": {
+            "author": 1,
+            "product": 11,
+            "email": "author1@example.com",
+            "text": "Хороший товар, но есть недостатки.",
+            "rate": 3,
+            "date": "2024-08-08T19:15:00Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 33,
+        "fields": {
+            "author": 2,
+            "product": 11,
+            "email": "author2@example.com",
+            "text": "Отличное качество за эти деньги.",
+            "rate": 4,
+            "date": "2024-08-08T20:45:00Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 34,
+        "fields": {
+            "author": 3,
+            "product": 12,
+            "email": "author3@example.com",
+            "text": "Очень доволен этим товаром!",
+            "rate": 5,
+            "date": "2024-08-08T21:30:00Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 35,
+        "fields": {
+            "author": 4,
+            "product": 12,
+            "email": "author4@example.com",
+            "text": "Неплохой товар, но есть недостатки.",
+            "rate": 3,
+            "date": "2024-08-08T22:00:00Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 36,
+        "fields": {
+            "author": 5,
+            "product": 12,
+            "email": "author5@example.com",
+            "text": "Отличное качество за эти деньги.",
+            "rate": 4,
+            "date": "2024-08-08T23:15:00Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 37,
+        "fields": {
+            "author": 1,
+            "product": 15,
+            "email": "example@mail.com",
+            "text": "Старый",
+            "rate": 4,
+            "date": "2024-08-24T10:56:03.378Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 38,
+        "fields": {
+            "author": 1,
+            "product": 15,
+            "email": "example@mail.com",
+            "text": "Старый",
+            "rate": 4,
+            "date": "2024-08-24T10:56:06.751Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 39,
+        "fields": {
+            "author": 1,
+            "product": 15,
+            "email": "example@mail.com",
+            "text": "Старый",
+            "rate": 4,
+            "date": "2024-08-24T10:57:19.694Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 40,
+        "fields": {
+            "author": 1,
+            "product": 14,
+            "email": "example@mail.com",
+            "text": "Отлично!",
+            "rate": 5,
+            "date": "2024-08-24T10:59:00.901Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 41,
+        "fields": {
+            "author": 1,
+            "product": 11,
+            "email": "example@mail.com",
+            "text": "Не понравился",
+            "rate": 5,
+            "date": "2024-08-24T11:00:37.343Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 42,
+        "fields": {
+            "author": 1,
+            "product": 12,
+            "email": "example@mail.com",
+            "text": "Не очень",
+            "rate": 3,
+            "date": "2024-08-24T11:02:06.858Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 43,
+        "fields": {
+            "author": 1,
+            "product": 13,
+            "email": "example@mail.com",
+            "text": "Нормально",
+            "rate": 4,
+            "date": "2024-08-24T11:02:48.864Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 44,
+        "fields": {
+            "author": 1,
+            "product": 9,
+            "email": "example@mail.com",
+            "text": "Слабый процессор",
+            "rate": 3,
+            "date": "2024-08-24T11:03:11.636Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 45,
+        "fields": {
+            "author": 1,
+            "product": 8,
+            "email": "example@mail.com",
+            "text": "Отличная защита",
+            "rate": 5,
+            "date": "2024-08-24T11:03:35.440Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 46,
+        "fields": {
+            "author": 1,
+            "product": 10,
+            "email": "example@mail.com",
+            "text": "Красивый",
+            "rate": 5,
+            "date": "2024-08-24T11:03:54.892Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 47,
+        "fields": {
+            "author": 1,
+            "product": 4,
+            "email": "example@mail.com",
+            "text": "В целом хорошо",
+            "rate": 4,
+            "date": "2024-08-24T11:04:22.752Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 48,
+        "fields": {
+            "author": 1,
+            "product": 5,
+            "email": "example@mail.com",
+            "text": "Долго запускается",
+            "rate": 2,
+            "date": "2024-08-24T11:04:55.655Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 49,
+        "fields": {
+            "author": 1,
+            "product": 1,
+            "email": "example@mail.com",
+            "text": "Отличный холодильник",
+            "rate": 5,
+            "date": "2024-08-24T11:05:20.972Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 50,
+        "fields": {
+            "author": 1,
+            "product": 3,
+            "email": "example@mail.com",
+            "text": "Совсем плохо",
+            "rate": 2,
+            "date": "2024-08-24T11:05:54.882Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 51,
+        "fields": {
+            "author": 1,
+            "product": 6,
+            "email": "example@mail.com",
+            "text": "Неплохо",
+            "rate": 4,
+            "date": "2024-08-24T11:06:25.616Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 52,
+        "fields": {
+            "author": 1,
+            "product": 2,
+            "email": "example@mail.com",
+            "text": "Не морозит",
+            "rate": 1,
+            "date": "2024-08-24T11:07:04.571Z"
+        }
+    },
+    {
+        "model": "catalog.review",
+        "pk": 53,
+        "fields": {
+            "author": 1,
+            "product": 7,
+            "email": "example@mail.com",
+            "text": "Все супер",
+            "rate": 5,
+            "date": "2024-08-24T11:07:26.689Z"
+        }
+    }
+]

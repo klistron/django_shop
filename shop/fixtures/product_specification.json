@@ -1,0 +1,272 @@
+[
+    {
+        "model": "catalog.productspecification",
+        "pk": 1,
+        "fields": {
+            "product": 1,
+            "name": "Бренд",
+            "value": "Beko"
+        }
+    },
+    {
+        "model": "catalog.productspecification",
+        "pk": 2,
+        "fields": {
+            "product": 1,
+            "name": "Энергопотребление",
+            "value": "257 кВтч/год"
+        }
+    },
+    {
+        "model": "catalog.productspecification",
+        "pk": 3,
+        "fields": {
+            "product": 1,
+            "name": "Класс энергопотребления",
+            "value": "A+"
+        }
+    },
+    {
+        "model": "catalog.productspecification",
+        "pk": 4,
+        "fields": {
+            "product": 2,
+            "name": "Класс энергопотребления",
+            "value": "A++"
+        }
+    },
+    {
+        "model": "catalog.productspecification",
+        "pk": 5,
+        "fields": {
+            "product": 2,
+            "name": "Цвет",
+            "value": "Белый"
+        }
+    },
+    {
+        "model": "catalog.productspecification",
+        "pk": 6,
+        "fields": {
+            "product": 2,
+            "name": "Гарантия",
+            "value": "2 года"
+        }
+    },
+    {
+        "model": "catalog.productspecification",
+        "pk": 7,
+        "fields": {
+            "product": 3,
+            "name": "Класс энергопотребления",
+            "value": "A+"
+        }
+    },
+    {
+        "model": "catalog.productspecification",
+        "pk": 8,
+        "fields": {
+            "product": 3,
+            "name": "Цвет",
+            "value": "Серебристый"
+        }
+    },
+    {
+        "model": "catalog.productspecification",
+        "pk": 9,
+        "fields": {
+            "product": 3,
+            "name": "Объем",
+            "value": "300 л"
+        }
+    },
+    {
+        "model": "catalog.productspecification",
+        "pk": 10,
+        "fields": {
+            "product": 4,
+            "name": "Класс энергопотребления",
+            "value": "B"
+        }
+    },
+    {
+        "model": "catalog.productspecification",
+        "pk": 11,
+        "fields": {
+            "product": 4,
+            "name": "Цвет",
+            "value": "Черный"
+        }
+    },
+    {
+        "model": "catalog.productspecification",
+        "pk": 12,
+        "fields": {
+            "product": 4,
+            "name": "Гарантия",
+            "value": "1 год"
+        }
+    },
+    {
+        "model": "catalog.productspecification",
+        "pk": 13,
+        "fields": {
+            "product": 5,
+            "name": "Класс энергопотребления",
+            "value": "A"
+        }
+    },
+    {
+        "model": "catalog.productspecification",
+        "pk": 14,
+        "fields": {
+            "product": 5,
+            "name": "Цвет",
+            "value": "Красный"
+        }
+    },
+    {
+        "model": "catalog.productspecification",
+        "pk": 15,
+        "fields": {
+            "product": 5,
+            "name": "Объем",
+            "value": "250 л"
+        }
+    },
+    {
+        "model": "catalog.productspecification",
+        "pk": 16,
+        "fields": {
+            "product": 6,
+            "name": "Класс энергопотребления",
+            "value": "A++"
+        }
+    },
+    {
+        "model": "catalog.productspecification",
+        "pk": 17,
+        "fields": {
+            "product": 6,
+            "name": "Цвет",
+            "value": "Бежевый"
+        }
+    },
+    {
+        "model": "catalog.productspecification",
+        "pk": 18,
+        "fields": {
+            "product": 6,
+            "name": "Гарантия",
+            "value": "3 года"
+        }
+    },
+    {
+        "model": "catalog.productspecification",
+        "pk": 19,
+        "fields": {
+            "product": 7,
+            "name": "Класс энергопотребления",
+            "value": "A+"
+        }
+    },
+    {
+        "model": "catalog.productspecification",
+        "pk": 20,
+        "fields": {
+            "product": 7,
+            "name": "Цвет",
+            "value": "Зеленый"
+        }
+    },
+    {
+        "model": "catalog.productspecification",
+        "pk": 21,
+        "fields": {
+            "product": 7,
+            "name": "Объем",
+            "value": "200 л"
+        }
+    },
+    {
+        "model": "catalog.productspecification",
+        "pk": 22,
+        "fields": {
+            "product": 8,
+            "name": "Класс энергопотребления",
+            "value": "B"
+        }
+    },
+    {
+        "model": "catalog.productspecification",
+        "pk": 23,
+        "fields": {
+            "product": 8,
+            "name": "Цвет",
+            "value": "Синий"
+        }
+    },
+    {
+        "model": "catalog.productspecification",
+        "pk": 24,
+        "fields": {
+            "product": 8,
+            "name": "Гарантия",
+            "value": "2 года"
+        }
+    },
+    {
+        "model": "catalog.productspecification",
+        "pk": 25,
+        "fields": {
+            "product": 9,
+            "name": "Класс энергопотребления",
+            "value": "A"
+        }
+    },
+    {
+        "model": "catalog.productspecification",
+        "pk": 26,
+        "fields": {
+            "product": 9,
+            "name": "Цвет",
+            "value": "Белый"
+        }
+    },
+    {
+        "model": "catalog.productspecification",
+        "pk": 27,
+        "fields": {
+            "product": 9,
+            "name": "Объем",
+            "value": "350 л"
+        }
+    },
+    {
+        "model": "catalog.productspecification",
+        "pk": 28,
+        "fields": {
+            "product": 10,
+            "name": "Класс энергопотребления",
+            "value": "A++"
+        }
+    },
+    {
+        "model": "catalog.productspecification",
+        "pk": 29,
+        "fields": {
+            "product": 10,
+            "name": "Цвет",
+            "value": "Серый"
+        }
+    },
+    {
+        "model": "catalog.productspecification",
+        "pk": 30,
+        "fields": {
+            "product": 10,
+            "name": "Гарантия",
+            "value": "1 год"
+        }
+    }
+]
